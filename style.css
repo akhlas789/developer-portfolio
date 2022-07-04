@@ -1,6 +1,43 @@
-body{
+body {
     font-family: 'Poppins', sans-serif;
 }
-h1{
+
+h1 {
     font-size: 50px;
+    color: rgb(19, 9, 9);
+
+}
+
+.sm {
+    color: rgb(241, 122, 36);
+}
+
+.para {
+    text-align: justify;
+}
+
+section {
+    display: flex;
+}
+
+.width {
+    width: auto;
+    padding: right 10px;
+    padding-top: 5%;
+    padding-right: 5px 8px 100px;
+    border-image: 10%;
+}
+
+.width img {
+    width: auto;
+    padding: left 2px 5px;
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: darkorange;
+    border-radius: 10px;
+    padding: 3% 10%;
+
 }
